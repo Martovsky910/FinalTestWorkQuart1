@@ -2,6 +2,7 @@
 string[] array2 = new string[array1.Length];
 
 ContainsArray(array1, array2);
+PrintArray(array2);
 
 void ContainsArray(string[] array1, string[] array2)
 {
